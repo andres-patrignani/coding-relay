@@ -1,2 +1,3 @@
-# coding-relay
-A repository to host coding relay challenges
+# Coding relay
+Unlike a traditional hackathon, which typically spans several hours or days to a solve complex problem, a Coding Relay focuses on shorter, more focused coding sprints within a classroom setting. In a Coding Relay, each team works in a designated computer where all the code is written, and only one team member codes at a time. The Coding Relay is a versatile teaching tool that can be adapted to various programming languages, skill levels, and class sizes. It provides students with hands-on experience, promotes peer interaction, and enhances problem-solving skills and enable educators to create a dynamic and engaging learning environment that prepares students for real-world programming challenges.
+
